@@ -10,7 +10,7 @@ I'm a Cyber-Security Analyst specializing in Purple Team operations, combining o
 
 ## 🛠️ Current Projects
 - Actively enhancing **Sharingan File Monitor**, a specialized tool for Linux malware behavioral analysis that integrates complementary kernel subsystems to provide comprehensive file system monitoring with process attribution capabilities.
-
+- I am also writing various Bad usb scripts for pentesting and red team scenarios 
 ## 💻 Technical Skills
 - **Scripting & Dev**: C++, Python, Bash
 - **Monitoring & SIEM**: Splunk, ELK Stack
